@@ -16,6 +16,10 @@
 *.gch
 *.pch
 
+# Preprocessor
+*.i
+*.lst
+
 # Libraries
 *.lib
 *.a
